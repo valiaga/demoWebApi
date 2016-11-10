@@ -1,9 +1,9 @@
 ##**Demo de arquitectura sistema de ciruclacion CRAI upeu-lima**
 
 FRAMEWORKS
-> webApi
-> EntityFramework
-> AngularMaterial
+- webApi
+- EntityFramework
+- AngularMaterial
 
 ####Comandos para hacer la migracion de las base de datos
 
